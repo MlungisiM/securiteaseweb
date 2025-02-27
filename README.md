@@ -1,15 +1,24 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+INTRODUCTION TO ASSESSMENT
+When completing this assessment please note that the main objective is not to simply complete the task, but to pay
+careful consideration to the following metrics that form part of the evaluation process.
+Code Quality/ Reusability
+Implementation
+Logic/ Approach
+Comments & Documentation
+Automation Techniques & Assertiveness
+Error Handling
+Problem Solving skills
+CI Readiness
+The assessment is divided into two (2) main sections:
+Front-End Automation
+Back-End Automation
+You may be as creative/ innovative as you like in completing this assessment and feel free to add any additional
+functionality where possible or if time permits (e.g. CI execution in GItHub Actions, Docker etc.)
+Once you have received the assessment we kindly ask that it be completed and submitted by the first business day of
+the following calendar work week. This is typically the following Monday with the exception of bank holidays.
+Submission instructions will be listed within each of the tasks detailed below.
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
-
-# Build and Test
-TODO: Describe and show how to build your code and run the tests.
 
 # Selenium-Appium Hybrid Framework
 
