@@ -3,29 +3,10 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/mlungisimbele/Documents/GitHub/securitease.web">
         <classes>
-            <class name="tests.login_tests">
+            <class name="tests.SearchresultsActions">
                 <methods>
-                    <include name="loginSuccessfullyTest"/>
-                    <include name="loginUnsuccessfullyTest1"/>
-                    <include name="loginUnsuccessfullyTest2"/>
-                    <include name="loginUnsuccessfullyTest3"/>
-                    <include name="loginUnsuccessfullyTest4"/>
-                    <include name="loginUnsuccessfullyTest5"/>
-                    <include name="loginUnsuccessfullyTest6"/>
-                    <include name="loginUnsuccessfullyTest7"/>
-                    <include name="ResetPassword"/>
-                    <include name="forgotPasswordSuccessfully"/>
-                    <include name="InvalidEmail"/>
-                    <include name="Logout"/>
-                </methods>
-            </class>
-            <class name="tests.retrieve_search_results_tests">
-                <methods>
-                    <include name="SignUpCompany"/>
-                    <include name="SignUpIndividual"/>
-                    <include name="CreateDomesticShipment"/>
-                    <include name="CreateInternationalShipment"/>
-                    <include name="PendingShipmentsByCountry"/>
+                    <include name="ValidationInATableOfResultsTest"/>
+                    <include name="RetrieveSearchResultsTest"/>
                 </methods>
             </class>
         </classes>

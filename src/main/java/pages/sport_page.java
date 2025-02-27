@@ -40,7 +40,7 @@ public class sport_page extends base {
     private WebDriverWait wait;
 
 
-    public sport_page() {
+    public void sport_page() {
         //this.driver = driver;
         PageFactory.initElements(driver, this);
         wait = new WebDriverWait(driver, Duration.ofSeconds(30));

@@ -65,7 +65,6 @@ public class base {
 
     //Tear down method - return driver into its initial state
     public void closeBrowser() {
-
             driver.manage().deleteAllCookies();
             log.info("Cookies deleted");
             driver.quit();

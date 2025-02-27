@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
@@ -10,16 +9,8 @@ TODO: Guide users through getting your code up and running on their own system. 
 4.	API references
 
 # Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+TODO: Describe and show how to build your code and run the tests.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
-=======
 # Selenium-Appium Hybrid Framework
 
 The aim of this project is to create a test automation framework that will be used for testing web applications. This is a Selenium Java framework designed using Page Factory design pattern.
@@ -32,8 +23,8 @@ This project is a Maven project. To access this project, clone this project dire
 
 ```bash
 IntelliJ IDEA/Eclipse
-JRE-1.8
-JDK-1.8
+JRE-22
+JDK-22
 
 ```
 
@@ -103,4 +94,3 @@ To execute each Class, navigate to the respective class > right-click on it > ru
 ```bash
 3.	Navigate to the tests class > Right-click and run using the TestNG
 ```
->>>>>>> a3d399a (change profile button css)
